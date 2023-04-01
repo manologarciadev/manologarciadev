@@ -1,4 +1,4 @@
-### Hi there 👋
+### 💬 Ask me about vuejs 👋
 
 [![@vmga43's Holopin board](https://holopin.me/vmga43)](https://holopin.io/@vmga43)
 
